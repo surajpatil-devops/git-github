@@ -1,0 +1,9 @@
+
+
+
+
+# Basic Command:
+
+git init  --> to initialize a repository
+git clone url ---> to clone the remote repository
+git remote add origin url   --> to add the remote 
